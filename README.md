@@ -9,4 +9,15 @@ Documentation of the project
 4. Learned lessons - LearnedLessons.md
 5. How to improve - Improving.md
 
+## Code repositories
+
+* BackEnd --> https://github.com/Spaice-Jump/BackEnd.git
+* FrontEnd --> https://github.com/Spaice-Jump/FrontEnd.git 
+* Documentation --> https://github.com/Spaice-Jump/Documentation.git
+
+## Project URLs
+
+* FrontEnd = https://spaicejump.duckdns.org/ 
+* BackEnd = https://back.spaicejump.duckdns.org/
+
 

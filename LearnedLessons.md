@@ -11,4 +11,4 @@
   * A mergear ramas resolviendo los conflictos con el código de otros compañeros: ayudándonos con el editor de codigo actual-entrande de VSC.
   * Aprender a ir commits atrás en el tiempo para reparar la aplicación que se había roto (y consecuente "no volver a mergear con develop sin probar la nueva funcionalidad"
 
-## 
+## Haber programado hasta el día anterior y una hiper-revisión minuciosa durante la mañana de la presentación.

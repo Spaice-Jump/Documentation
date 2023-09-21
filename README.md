@@ -18,9 +18,17 @@ Used GitHub repositories:
 * Documentation --> https://github.com/Spaice-Jump/Documentation.git
 
 ## Project URLs
-Prohject URLs at AWS (EC2 instance):
+Project URLs at AWS (EC2 instance):
 
 * FrontEnd = https://spaicejump.duckdns.org/ 
 * BackEnd = https://back.spaicejump.duckdns.org/
+
+## Other documents
+
+* GitHub instructions --> https://docs.google.com/document/d/1bX9N1Vam0SpYm8ItfHokBi4mei4YRytJD77BtpRxkrE/edit?usp=sharing
+* AWS Server setup and deploy --> https://docs.google.com/document/d/1_WWpI1cVOloivFa7ZDlBSxTgmTKdzUpj/edit?usp=sharing&ouid=115162251656861811418&rtpof=true&sd=true
+* Presentation --> https://docs.google.com/presentation/d/1t9GkScpK94X589tm7CCmz5ijeWXtr19s6kZXa5K4MPI/edit?usp=sharing
+
+
 
 
